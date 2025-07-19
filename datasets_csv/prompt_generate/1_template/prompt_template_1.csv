@@ -1,0 +1,2 @@
+﻿SUBTYPE_TEMPLATE,AGE_TEMPLATE,SEX_TEMPLATE,TUMORSTAGE_TEMPLATE,STAGEEDITION_TEMPLATE,RACE_TEMPLATE,PRIMARY_TEMPLATE,PIROR_TEMPLATE,TREATMENT_TEMPLATE1,TREATMENT_TEMPLATE2
+The sample belongs to subtype SUBTYPE.,The age is AGE years old.,This is a SEX.,The patient has been diagnosed with a TUMORSTAGE tumor.,This diagnosis relies on the EDITION edition of the criteria.,The person is RACE.,The patient was initially diagnosed with DIAGNOSIS.,This patient had a previous malignant tumor.,The patient received pharmaceutical therapy.,The patient underwent radiation therapy.
